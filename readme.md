@@ -4,8 +4,8 @@
 A smooth and efficient online marketplace for daily necessities.
 
 ## Student Information:
-* Name: Usama Riaz
-* Email: 
+* Name: Muhammad Usama Riaz
+* Email: Usama.Riaz@abo.fi
 
 ## Requirements
 
